@@ -7,7 +7,7 @@
 ![img](https://github.com/AApunch/HCF/blob/master/Result/basketabll.gif)  
 ![img](https://github.com/AApunch/HCF/blob/master/Result/carscale.gif)  
 ![img](https://github.com/AApunch/HCF/blob/master/Result/jogging.gif) 
-![img](https://github.com/AApunch/HCF/blob/master/Result/subway.gif) 
+
 ### Result
 ![img](https://github.com/AApunch/HCF/blob/master/Result/OPE.png)  
 ![img](https://github.com/AApunch/HCF/blob/master/Result/图片1.png)  
