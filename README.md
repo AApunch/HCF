@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aiming at over-deformation and occlusion problems that are difficult to solve for correlated filtering tracking algorithms in the tracking field, an improved multiscale target tracking algorithm based PSR and Objective similarity is proposed in this paper. Our method key process is combine traditional correlation operation peak side lobe ratio with perceptual hashing algorithm in order to those problems, such as, target occlusion, over deformation and other complex scene judgment.
 ### Video  
-HCF-red&nbsp;TLD-green&nbsp;CSK-blue&nbsp;KCF-black&nbsp;DSST-pink&nbsp;STAPLE-Cyan&nbsp;ECOHC-gray
+HCF-red&nbsp;&nbsp;TLD-green&nbsp;&nbsp;CSK-blue&nbsp;&nbsp;KCF-black&nbsp;&nbsp;DSST-pink&nbsp;&nbsp;STAPLE-Cyan&nbsp;&nbsp;ECOHC-gray
 ![img](https://github.com/AApunch/HCF/blob/master/Result/basketabll.gif)  
 ![img](https://github.com/AApunch/HCF/blob/master/Result/carscale.gif)  
 ![img](https://github.com/AApunch/HCF/blob/master/Result/jogging.gif) 
